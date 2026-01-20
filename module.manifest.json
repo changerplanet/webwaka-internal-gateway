@@ -1,0 +1,11 @@
+{
+  "moduleId": "webwaka_internal_gateway",
+  "class": "api",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-internal-gateway",
+    "created": "2026-01-20"
+  }
+}
