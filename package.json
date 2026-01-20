@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-internal-gateway",
+  "version": "0.1.0",
+  "description": "WebWaka api module",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
